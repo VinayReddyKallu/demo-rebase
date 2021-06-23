@@ -6,6 +6,10 @@ void add() {
     cout<<"We can add 2 integers"<<endl;
 }
 
+void mul(){
+    cout<<"This is multiply func"<<endl;
+}
+
 
 
 int main(){
