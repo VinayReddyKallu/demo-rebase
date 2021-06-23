@@ -14,6 +14,8 @@ void mul(){
 
 void div()[
     cout<<"this is div func"<<endl;
+    int a = 10/5;
+    cout<<a<<endl;
 ]
 
 
