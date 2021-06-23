@@ -12,6 +12,10 @@ void mul(){
     cout<<a<<endl;
 }
 
+void div()[
+    cout<<"this is div func"<<endl;
+]
+
 
 
 int main(){
