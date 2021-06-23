@@ -8,6 +8,8 @@ void add() {
 
 void mul(){
     cout<<"This is multiply func"<<endl;
+    int a = 10*7;
+    cout<<a<<endl;
 }
 
 
