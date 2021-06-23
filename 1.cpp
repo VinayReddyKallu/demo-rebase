@@ -10,6 +10,10 @@ void mul(){
     cout<<"This is multiply func"<<endl;
 }
 
+void div()[
+    cout<<"this is div func"<<endl;
+]
+
 
 
 int main(){
